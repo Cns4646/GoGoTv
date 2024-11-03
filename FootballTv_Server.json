@@ -3,6 +3,12 @@
     "serverName": "Server 1",
     "serverLink": "https://socolive41.ac/",
     "serverID": "c2VydmVyMV90cnVl",
+    "serverStatus": "notActive"
+  },
+  {
+    "serverName": "Server 2",
+    "serverLink": "",
+    "serverID": "c2VydmVyMl90cnVl",
     "serverStatus": "Active"
   }
 ]
